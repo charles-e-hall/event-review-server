@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ANSI, Inc.</title>
+	<title>Kodifi.ai</title>
 	<!--<link rel="stylesheet" type="text/css" href="style.css"> -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
@@ -23,7 +23,7 @@
 	<nav>
 		<div class="main-wrapper">
 			<ul>
-				<li><a href="index.php">Home</a></li>
+				<li><a href="index.php">Kodifi</a></li>
 			</ul>
 			<div class="nav-login">
 				<form method="post" action="inc/login-inc.php">
