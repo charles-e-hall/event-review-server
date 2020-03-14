@@ -15,8 +15,7 @@
 		<input type="text" name="zipcode" placeholder="Zip Code">
 		<input type="text" name="email" placeholder="E-mail">
 		<input type="password" name="pwd" placeholder="Password">
-		<input type="checkbox" name="agree_to_terms">
-		<label for="agree_to_terms">I Agree to the Terms</label>
+		<input type="checkbox" name="agree_to_terms"><label for="agree_to_terms">I Agree to the Terms</label>
 		<button type="submit" name="submit">Apply</button>
 	</form>
 </section>
