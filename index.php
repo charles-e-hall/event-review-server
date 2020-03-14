@@ -4,9 +4,9 @@
 
 <section class="main-container">
 	<div class="main-wrapper">
-		<h1>Kodifi.ai</h1>
+		<h2>Kodifi.ai</h2>
 		<h2>Find the Home of Your Dreams</h2>
-		<h3>Apply</h3>
+		<h2>Apply</h2>
 	</div>
 	<form class="signup-form" method="post" action="inc/signup-inc.php">
 		<input type="text" name="firstname" placeholder="First Name">
